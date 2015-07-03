@@ -47,6 +47,12 @@ public class MainActivity extends ActionBarActivity
                 R.id.navigation_drawer,
                 (DrawerLayout) findViewById(R.id.drawer_layout));
         Log.d("branch", "branch");
+        Log.d("branch", "branch");
+        Log.d("branch", "branch");
+        Log.d("branch", "branch");
+        Log.d("branch", "branch");
+
+
     }
 
     @Override
