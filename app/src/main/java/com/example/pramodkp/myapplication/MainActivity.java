@@ -49,9 +49,7 @@ public class MainActivity extends ActionBarActivity
         Log.d("branch", "branch");
         Log.d("branch", "branch");
         Log.d("branch", "branch");
-        Log.d("branch", "branch");
-        Log.d("branch", "branch");
-
+    
 
     }
 
